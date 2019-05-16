@@ -25,7 +25,8 @@
             "alignment": 2,
             "lineHeightMultiple": 1
           },
-          "textStyleVerticalAlignmentKey": 0
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
         "length": 4,
         "location": 0
@@ -97,7 +98,8 @@
           "alignment": 2,
           "lineHeightMultiple": 1
         },
-        "textStyleVerticalAlignmentKey": 0
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },
